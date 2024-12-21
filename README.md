@@ -17,12 +17,6 @@ A powerful and flexible parser for 3GPP Performance Measurement XML files, suppo
 - Comprehensive error handling and logging
 - Extensive test suite
 
-## Installation
-
-```bash
-pip install enhanced-3gpp-pmparser
-```
-
 ## Usage
 
 ### Command Line Interface
@@ -103,21 +97,14 @@ pip install -e ".[dev]"
 python -m unittest discover tests
 ```
 
-## License
-
-MIT License - see LICENSE file for details
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-If you encounter any problems or have questions, please:
+If you encounter any problems or have questions, feel free to contact me on https://www.linkedin.com/in/zoltanortutay/
 
-1. Check the documentation
-2. Look for existing issues
-3. Create a new issue if needed
 
 ## Acknowledgments
 
